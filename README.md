@@ -1,3 +1,5 @@
+curentSlide: https://odyssey.apollographql.com/lift-off-part1/apollo-client-setup
+
 # Catstronauts
 
 Apollo's Lift-off course companion app (completed)
